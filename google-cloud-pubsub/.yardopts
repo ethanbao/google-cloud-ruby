@@ -1,8 +1,0 @@
---no-private
---title=Google Cloud Pub/Sub
---exclude lib/google/pubsub/v1
---markup markdown
-
-./lib/**/*.rb
--
-README.md
