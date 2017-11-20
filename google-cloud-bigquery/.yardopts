@@ -1,7 +1,0 @@
---no-private
---title=Google Cloud BigQuery
---markup markdown
-
-./lib/**/*.rb
--
-README.md

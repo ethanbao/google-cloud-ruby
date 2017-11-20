@@ -1,7 +1,0 @@
---no-private
---title=Google Cloud Translation API
---markup markdown
-
-./lib/**/*.rb
--
-README.md
